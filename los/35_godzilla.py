@@ -1,6 +1,5 @@
 import requests
 from settings import session_id
-from bs4_utils import print_html
 
 
 # 기본 설정
